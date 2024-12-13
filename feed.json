@@ -7,10 +7,43 @@
 	"items": [
 		
 			{
+				"id": "http://anthonyallison.micro.blog/2024/12/12/i-just-completed.html",
+				
+				"content_html": "<p>I just completed &ldquo;Ceres Search&rdquo; - <a href=\"https://adventofcode.com/2024/day/4\">Day 4 - Advent of Code 2024</a> #AdventOfCode</p>\n<p>(I also finished days <a href=\"https://adventofcode.com/2024/day/2\">2</a> and <a href=\"https://adventofcode.com/2024/day/3\">3</a> and forgot to post it.)</p>\n",
+				"content_text": "I just completed \"Ceres Search\" - [Day 4 - Advent of Code 2024](https://adventofcode.com/2024/day/4) #AdventOfCode\r\n\r\n(I also finished days [2](https://adventofcode.com/2024/day/2) and [3](https://adventofcode.com/2024/day/3) and forgot to post it.)\n",
+				"date_published": "2024-12-12T20:30:43-06:00",
+				"url": "https://www.tonystravelingthoughts.com/2024/12/12/i-just-completed.html"
+			},
+			{
+				"id": "http://anthonyallison.micro.blog/2024/12/02/i-just-completed.html",
+				
+				"content_html": "<p>I just completed &ldquo;Historian Hysteria&rdquo; - Day 1 - Advent of Code 2024 #AdventOfCode <a href=\"https://adventofcode.com/2024/day/1\">Advent of Code 2024 Day 1</a></p>\n<p><a href=\"https://gist.github.com/tonytx05/3172ea729ceaa3f35ea13aeceeba5a74\">Day 1 Puzzle 1 Gist</a></p>\n<p><a href=\"https://gist.github.com/tonytx05/1fe0bfd2e5e458c51a95c2b9b89c9b37\">Day 1 Puzzle 2 Gist</a></p>\n",
+				"content_text": "I just completed \"Historian Hysteria\" - Day 1 - Advent of Code 2024 #AdventOfCode [Advent of Code 2024 Day 1](https://adventofcode.com/2024/day/1)\n\n[Day 1 Puzzle 1 Gist](https://gist.github.com/tonytx05/3172ea729ceaa3f35ea13aeceeba5a74)\n\n[Day 1 Puzzle 2 Gist](https://gist.github.com/tonytx05/1fe0bfd2e5e458c51a95c2b9b89c9b37)\n",
+				"date_published": "2024-12-02T20:22:02-06:00",
+				"url": "https://www.tonystravelingthoughts.com/2024/12/02/i-just-completed.html",
+				"tags": ["Coding"]
+			},
+			{
+				"id": "http://anthonyallison.micro.blog/2024/11/30/happy-fall-yall.html",
+				
+				"content_html": "<p>Happy fall y&rsquo;all!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy fall y'all! \n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"A whiskey cocktail garnished with an apple slice sits on the corner of a coffee table. A cozy fire burns in the fireplace in the background. \">\n",
+				"date_published": "2024-11-30T17:34:45-06:00",
+				"url": "https://www.tonystravelingthoughts.com/2024/11/30/happy-fall-yall.html"
+			},
+			{
+				"id": "http://anthonyallison.micro.blog/2024/11/30/this-cracks-me.html",
+				
+				"content_html": "<p>This cracks me up 🤣</p>\n<p><a href=\"https://youtu.be/bCj6dv14N4I\">Build a Pretzel Cabin</a></p>\n",
+				"content_text": "This cracks me up 🤣\n\n[Build a Pretzel Cabin](https://youtu.be/bCj6dv14N4I)\n",
+				"date_published": "2024-11-30T13:21:07-06:00",
+				"url": "https://www.tonystravelingthoughts.com/2024/11/30/this-cracks-me.html"
+			},
+			{
 				"id": "http://anthonyallison.micro.blog/2024/11/30/130354.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/image.png\" width=\"600\" height=\"262\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2024/image.png\" width=\"600\" height=\"262\" alt=\"Hot take: the turkey should be at the end of the serving line, AFTER all the sides. Know your place in the pecking order bird.\">\n",
 				"date_published": "2024-11-30T13:03:54-06:00",
 				"url": "https://www.tonystravelingthoughts.com/2024/11/30/130354.html"
 			},
